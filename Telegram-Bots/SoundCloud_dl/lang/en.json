@@ -1,0 +1,11 @@
+{
+    "start": "Hello. Send name of sound to me and get file.",
+    "link": "Send link to me",
+    "nfound": "Not found.",
+    "uerror": "Opppsss... Something wrong.",
+    "smusic": "Select music to download: ",
+    "error": "Error in request. Try later.",
+    "ulink": "This link is not supported.",
+    "good": "Started download",
+    "reg_completed": "You registered"
+  }

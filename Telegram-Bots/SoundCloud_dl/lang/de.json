@@ -1,0 +1,11 @@
+{
+    "start": "Hallo. Schicken Sie mir den Namen des Sounds und holen Sie sich die Datei.",
+    "link": "Link an mich senden",
+    "nfound": "Nicht gefunden.",
+    "uerror": "Opppsss... Etwas stimmt nicht.",
+    "smusic": "Musik zum Herunterladen auswählen ",
+    "error": "Fehler in der Anfrage. Versuchen Sie es später noch einmal.",
+    "ulink": "Dieser Link wird nicht unterstützt.",
+    "good": "Download gestartet",
+    "reg_completed": "Sie haben sich registriert"
+  }
